@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">HotSpot</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="backbutton_click_is_finish">Press again to exit HotSpot</string>
+    <string name="action_settings">Settings</string>
+    <string name="network_popup_title">네트워크 오류</string>
+    <string name="network_popup_content">네트워크 상태가 원활하지 않습니다.</string>
+    <string name="network_popup_negative">종료</string>
+    <string name="network_popup_longer_positive">다시시도</string>
+    <string name="won_per_hour"><![CDATA[" "]]>won<![CDATA["/"]]>hour</string>
+    <string name="campany_name">HotSpotSoft</string>
+    <string name="introduce">Introduce</string>
+    <string name="available_time">Available time</string>
+    <string name="holidays">Holidays</string>
+    <string name="facility">Facility Information</string>
+    <string name="cautions">Cautions</string>
+    <string name="please_choose_space">Please choose available space.</string>
+    <string name="please_choose_space_type">Please choose space type</string>
+    <string name="fee_hour_text"><![CDATA["/"]]>Hour</string>
+    <string name="won"><![CDATA["₩"]]></string>
+    <string name="btn_close">Close</string>
+    <string name="space_detail_type"><![CDATA["· "]]>Space Type</string>
+    <string name="space_detail_book_time"><![CDATA["· "]]>Reservation Time</string>
+    <string name="space_detail_book_num"><![CDATA["· "]]>Available People</string>
+    <string name="internet_wifi">Internet\nWiFi</string>
+    <string name="parking">Parking</string>
+    <string name="request_confirm">Request<![CDATA[" & "]]>Confirm</string>
+    <string name="cancel_refund">Cancel<![CDATA[" & "]]>Refund</string>
+    <string name="used_complete">Complete</string>
+    <string name="hot_spot">Hot spot</string>
+    <string name="host_center">Host Center</string>
+    <string name="registration_space">Registration My Space</string>
+    <string name="managemanet_space">Manage my booking space</string>
+    <string name="you_need_to_login">You need to sign in</string>
+    <string name="login_kakao">Log in with Kakao</string>
+    <string name="loout_kakao">Logout</string>
+    <string name="terms_of_use">Terms of Use</string>
+    <string name="sharing_space">Sharing space</string>
+    <string name="start">START</string>
+    <string name="sharing_space_detail">space > more space > price > complete</string>
+    <string name="select_space_type">Select the type of space</string>
+    <string name="call">Call</string>
+    <string name="request_book">Reservation</string>
+    <string name="space_time_fee">Time</string>
+    <string name="space_day_fee">Day</string>
+    <string name="select_time_day_info">Please select the type of schedule.</string>
+    <string name="max_select_num">Select up to three</string>
+    <string name="select_space_type_info">What type of space do you share?</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <array name="category">
+        <item>Meeting Room</item>
+        <item>Seminar Room</item>
+        <item>Party Room</item>
+        <item>Leisure Facilities</item>
+        <item>Multipurpose Hall</item>
+        <item>Workplace</item>
+        <item>Concert Hall</item>
+        <item>Practice Room</item>
+        <item>Cafe</item>
+        <item>Study room</item>
+        <item>Membership Training</item>
+    </array>
+</resources>
